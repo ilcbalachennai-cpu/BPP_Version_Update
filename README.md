@@ -9,4 +9,6 @@ Click the link below to get the official, secure installer for Indian users:
 ### Security Verification
 To verify the integrity of your download, check the SHA-256 hash:
 * **File Name:** Launch_BPP_V11.exe
-* **SHA-256 Hash:** c0c3f71bbe9fb0e5bfb03cbdf2bda369ecdbda2df2f22b7a0d4b9b9a67a84e3a
+* **SHA-256 Hash:** 2A76369072A11A2836DC5E7CC75B0B6DD7BA7AD9B01EF710441EC044BBDB70A8
+
+

@@ -3,8 +3,7 @@ Bharat Pay Roll is free windows desktop utility software in compliance with Code
 ## Download BPP Software for Windows
 Click the link below to get the official, secure installer for Indian users:
 
-➔ [Download Latest BPP Windows Installer (.exe)](https://github.com/ilcbalachennai-cpu/BPP_Version_Update/releases/download/V06.01.10/Launch_BPP_Installer.exe)
-
+➔ [Download Latest BPP Windows Installer (.exe)](https://github.com/ilcbalachennai-cpu/BPP_Version_Update/releases/download/V06.01.11/BPP_APP_V06.01.11_Win10.exe)
 
 ### Security Verification
 To verify the integrity of your download, check the SHA-256 hash:
